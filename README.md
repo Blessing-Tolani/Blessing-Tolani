@@ -18,6 +18,9 @@ Feel free to reach out to me if any questions or you need me on your team projec
 ![MUI](https://img.shields.io/badge/mui-%23007ACC?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+#### My Portfolio
+https://blessing-ojo.netlify.app/
+
 #### Connect with me:
 
 <a href='mailto:ojotolani3@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
