@@ -15,6 +15,8 @@ Feel free to reach out to me if any questions or you need me on your team projec
 ![Cypress](https://img.shields.io/badge/cypress-436252?style=for-the-badge&logo=cypress&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
+![MUI](https://img.shields.io/badge/mui-%23007ACC?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Connect with me:
 
