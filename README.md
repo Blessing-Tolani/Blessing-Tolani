@@ -1,6 +1,6 @@
 **Hey 👋, Blessing here**
 
-A Frontend Software Engineer from Lagos, Nigeria
+Frontend Software Engineer
 
 Feel free to reach out to me if any questions or you need me on your team project
 
